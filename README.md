@@ -6,9 +6,6 @@
 
 
 <br/>
-<br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=may-eelb&layout=compact&theme=dracula)
 
 <br/>
 
